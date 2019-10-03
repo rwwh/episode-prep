@@ -18,6 +18,14 @@
   weather instances. Or are the two the same :) ?
   
 * What theories do we have to explain these effects?
+  - Greenhouse emissions
+      - CO2
+      - Methane (including from mining / farming)
+      - Others
+  - Feedback loops, "positive" or "negative"?
+      - Melting snow
+      - Methane from thawing permafrost
+      - Cloud cover / high clouds / low clouds
 
 * How does it work in principle
   - Key idea: distinguish thermodynamic (global, slow) and dynamical (circulation) 
